@@ -1,0 +1,8 @@
+D:\lirizzo\Desktop\курсовая\FutureDo\FutureDo\x64\Release\FutureDo.vcxproj.AssemblyReference.cache
+D:\lirizzo\Desktop\курсовая\FutureDo\FutureDo\x64\Release\FutureDo.Dialog_window.resources
+D:\lirizzo\Desktop\курсовая\FutureDo\FutureDo\x64\Release\FutureDo.LoginForm.resources
+D:\lirizzo\Desktop\курсовая\FutureDo\FutureDo\x64\Release\FutureDo.Menu_window.resources
+D:\lirizzo\Desktop\курсовая\FutureDo\FutureDo\x64\Release\FutureDo.planner_form.resources
+D:\lirizzo\Desktop\курсовая\FutureDo\FutureDo\x64\Release\FutureDo.Register_form.resources
+D:\lirizzo\Desktop\курсовая\FutureDo\FutureDo\x64\Release\FutureDo.vcxproj.GenerateResource.cache
+D:\lirizzo\Desktop\курсовая\FutureDo\FutureDo\x64\Release\FutureDo.timer_window.resources

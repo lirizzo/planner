@@ -1,0 +1,19 @@
+﻿  Dialog_window.cpp
+  LoginForm.cpp
+D:\lirizzo\Desktop\Щемелёва\PRG\FutureDo\FutureDo\Task.h(166,12): warning C4353: нестандартное расширение: константа 0 в качестве выражения функции.  Следует заменить на подставляемую функцию "__noop"
+  (компиляция исходного файла "LoginForm.cpp")
+  
+  Menu_window.cpp
+D:\lirizzo\Desktop\Щемелёва\PRG\FutureDo\FutureDo\Task.h(166,12): warning C4353: нестандартное расширение: константа 0 в качестве выражения функции.  Следует заменить на подставляемую функцию "__noop"
+  (компиляция исходного файла "Menu_window.cpp")
+  
+  planner_form.cpp
+D:\lirizzo\Desktop\Щемелёва\PRG\FutureDo\FutureDo\Task.h(166,12): warning C4353: нестандартное расширение: константа 0 в качестве выражения функции.  Следует заменить на подставляемую функцию "__noop"
+  (компиляция исходного файла "planner_form.cpp")
+  
+  Register_form.cpp
+  timer_window.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  Dialog_window.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  FutureDo.vcxproj -> D:\lirizzo\Desktop\Щемелёва\PRG\FutureDo\x64\Debug\FutureDo.exe

@@ -1,0 +1,24 @@
+D:\lirizzo\Desktop\курсовая\FutureDo\FutureDo\x64\Debug\FutureDo.vcxproj.AssemblyReference.cache
+D:\lirizzo\Desktop\курсовая\FutureDo\FutureDo\x64\Debug\FutureDo.vcxproj.GenerateResource.cache
+D:\lirizzo\Desktop\курсовая\FutureDo\FutureDo\x64\Debug\FutureDo.Menu_window.resources
+D:\lirizzo\Desktop\курсовая\FutureDo\FutureDo\x64\Debug\FutureDo.planner_form.resources
+D:\lirizzo\Desktop\курсовая\FutureDo\FutureDo\x64\Debug\FutureDo.LoginForm.resources
+D:\lirizzo\Desktop\курсовая\FutureDo\FutureDo\x64\Debug\FutureDo.Register_form.resources
+D:\lirizzo\Desktop\курсовая\FutureDo\FutureDo\x64\Debug\FutureDo.Dialog_window.resources
+D:\lirizzo\Desktop\курсовая\FutureDo\FutureDo\x64\Debug\FutureDo.timer_window.resources
+D:\lirizzo\Desktop\Щемелёва КП\PRG\FutureDo\FutureDo\x64\Debug\FutureDo.vcxproj.AssemblyReference.cache
+D:\lirizzo\Desktop\Щемелёва КП\PRG\FutureDo\FutureDo\x64\Debug\FutureDo.Dialog_window.resources
+D:\lirizzo\Desktop\Щемелёва КП\PRG\FutureDo\FutureDo\x64\Debug\FutureDo.LoginForm.resources
+D:\lirizzo\Desktop\Щемелёва КП\PRG\FutureDo\FutureDo\x64\Debug\FutureDo.Menu_window.resources
+D:\lirizzo\Desktop\Щемелёва КП\PRG\FutureDo\FutureDo\x64\Debug\FutureDo.planner_form.resources
+D:\lirizzo\Desktop\Щемелёва КП\PRG\FutureDo\FutureDo\x64\Debug\FutureDo.Register_form.resources
+D:\lirizzo\Desktop\Щемелёва КП\PRG\FutureDo\FutureDo\x64\Debug\FutureDo.timer_window.resources
+D:\lirizzo\Desktop\Щемелёва КП\PRG\FutureDo\FutureDo\x64\Debug\FutureDo.vcxproj.GenerateResource.cache
+D:\lirizzo\Desktop\Щемелёва\PRG\FutureDo\FutureDo\x64\Debug\FutureDo.vcxproj.AssemblyReference.cache
+D:\lirizzo\Desktop\Щемелёва\PRG\FutureDo\FutureDo\x64\Debug\FutureDo.Dialog_window.resources
+D:\lirizzo\Desktop\Щемелёва\PRG\FutureDo\FutureDo\x64\Debug\FutureDo.LoginForm.resources
+D:\lirizzo\Desktop\Щемелёва\PRG\FutureDo\FutureDo\x64\Debug\FutureDo.Menu_window.resources
+D:\lirizzo\Desktop\Щемелёва\PRG\FutureDo\FutureDo\x64\Debug\FutureDo.planner_form.resources
+D:\lirizzo\Desktop\Щемелёва\PRG\FutureDo\FutureDo\x64\Debug\FutureDo.Register_form.resources
+D:\lirizzo\Desktop\Щемелёва\PRG\FutureDo\FutureDo\x64\Debug\FutureDo.timer_window.resources
+D:\lirizzo\Desktop\Щемелёва\PRG\FutureDo\FutureDo\x64\Debug\FutureDo.vcxproj.GenerateResource.cache

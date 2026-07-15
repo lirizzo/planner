@@ -1,0 +1,89 @@
+  FutureDo.Dialog_window.resources - Embedded, ContainedInManifestFile, 
+  FutureDo.LoginForm.resources - Embedded, ContainedInManifestFile, 
+  FutureDo.Menu_window.resources - Embedded, ContainedInManifestFile, 
+  FutureDo.planner_form.resources - Embedded, ContainedInManifestFile, 
+  FutureDo.Register_form.resources - Embedded, ContainedInManifestFile, 
+  FutureDo.timer_window.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly FutureDo, Version=0.0.*, Culture=Инвариантный язык (Инвариантная страна): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.DirectoryServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class FutureDo.Dialog_window: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.String, System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    Show(String, String): PrivateScope, Public, Static, HideBySig
+Class FutureDo.User: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(System.String, System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String Username : Public
+    System.String PasswordHash : Public
+    System.DateTime RegistrationDate : Public
+  Methods:
+    HashPassword(String): PrivateScope, Public, Static, HideBySig
+    CheckPassword(String): PrivateScope, Public, HideBySig
+Class FutureDo.ManageUser: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    SetCurrentUser(User): PrivateScope, Public, Static, HideBySig
+    GetCurrentUser(): PrivateScope, Public, Static, HideBySig
+    register_user(String, String): PrivateScope, Public, Static, HideBySig
+    find_user(String): PrivateScope, Public, Static, HideBySig
+    login_user(String, String): PrivateScope, Public, Static, HideBySig
+Class FutureDo.Task: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    LoadTasks(String): PrivateScope, Public, Static, HideBySig
+    uncheck_task(String): PrivateScope, Public, Static, HideBySig
+    check_task(String): PrivateScope, Public, Static, HideBySig
+    ischecked(String): PrivateScope, Public, Static, HideBySig
+    AddTask(String, String): PrivateScope, Public, Static, HideBySig
+    delete_task(String): PrivateScope, Public, Static, HideBySig
+    AddHabbit(String): PrivateScope, Public, Static, HideBySig
+    LoadHabbits(): PrivateScope, Public, Static, HideBySig
+    complete_habbit(String, String): PrivateScope, Public, Static, HideBySig
+    uncomplete_habbit(String, String): PrivateScope, Public, Static, HideBySig
+    habbit_iscomplete(String, String): PrivateScope, Public, Static, HideBySig
+    findsame(String): PrivateScope, Public, Static, HideBySig
+    delete_habbit(String): PrivateScope, Public, Static, HideBySig
+Class FutureDo.Timer_pomodoro: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    Set_timer(Int32): PrivateScope, Public, Static, HideBySig
+    Get_timer(): PrivateScope, Public, Static, HideBySig
+    Get_seconds(): PrivateScope, Public, Static, HideBySig
+Class FutureDo.timer_window: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    Show(): PrivateScope, Public, Static, HideBySig
+Class FutureDo.planner_form: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    setPomodoroTime(Int32): PrivateScope, Public, Static, HideBySig
+Class FutureDo.LoginForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Boolean istrue : Public
+Class FutureDo.Register_form: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class FutureDo.Menu_window: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
